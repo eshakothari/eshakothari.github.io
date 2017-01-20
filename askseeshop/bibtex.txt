@@ -1,0 +1,7 @@
+@inproceedings{clickcarving,
+Author = {Suyog Dutt Jain and Kristen Grauman},
+Booktitle = {AAAI Conference on Human Computation and Crowdsourcing (HCOMP)},
+Month = {October},
+Title = {Click Carving: Segmenting Objects in Video with Point Clicks},
+Year = {2016}
+}
